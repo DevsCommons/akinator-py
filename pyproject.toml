@@ -11,6 +11,7 @@ authors = [
 description = "A Python library for interacting with the Akinator game API"
 readme = "README.md"
 requires-python = ">=3.6"
+license = {text = "MIT License"}
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
@@ -27,6 +28,7 @@ dependencies = [
     "aiohttp",
     "beautifulsoup4",
 ]
+keywords = ["akinator", "game", "api", "async"]
 
 [project.urls]
 "Homepage" = "https://github.com/DevsCommons/akinator-py"
