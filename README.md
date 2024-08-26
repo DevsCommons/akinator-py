@@ -7,7 +7,7 @@ A Python library for interacting with the Akinator game API. This library provid
 You can install the library using pip:
 
 ```bash
-pip install akinatorpy
+pip install py-akinator
 ```
 
 ## Usage
