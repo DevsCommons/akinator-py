@@ -20,7 +20,7 @@ Usage:
     result = await async_aki.start_game()
 """
 
-from .aki import Akinator, AsyncAkinator
+from .akinator import Akinator, AsyncAkinator
 from .enums import Answer, Language
 
 __all__ = ["Akinator", "AsyncAkinator", "Answer", "Language"]
